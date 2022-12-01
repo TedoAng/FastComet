@@ -1,0 +1,10 @@
+.back-prog{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    translate: 0px -100%;
+   
+}
+.MuiCircularProgress-root{
+    z-index: -100;
+}
